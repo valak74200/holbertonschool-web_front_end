@@ -99,7 +99,7 @@ To view any of the HTML files:
 
 ## 👤 Author
 
-- **Your Name** - [GitHub Profile](https://github.com/yourusername)
+- **LOUVEAU Clément** - [GitHub Profile](https://github.com/valak74200)
 
 ## 📄 License
 
