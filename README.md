@@ -33,7 +33,7 @@ Through this project, you will learn:
 ## 🛠️ Technologies Used
 
 - HTML5
-- CSS3 (upcoming)
+- CSS3
 - Responsive design principles
 - Web accessibility standards
 
