@@ -15,6 +15,11 @@ The repository is organized into the following directories:
   - Final website files (index.html, about.html, etc.)
   - Styleguide demonstrating HTML elements and their proper usage
 
+- **CSS_advanced/**: Contains CSS files that style the Techium website
+  - Numbered files (1-style.css to 32-style.css) showing step-by-step styling
+  - Implements advanced CSS concepts like custom properties, responsive design, and animations
+  - Includes a normalized CSS file for cross-browser compatibility
+
 ## 🎯 Learning Objectives
 
 Through this project, you will learn:
@@ -49,6 +54,22 @@ The HTML Advanced section focuses on creating a semantically valid HTML structur
 - `latest_news.html`: News and updates page
 - `contact.html`: Contact information page
 - `styleguide.html`: Reference for HTML elements used throughout the site
+
+## 🎨 CSS Advanced
+
+The CSS Advanced section focuses on styling the HTML structure created in the HTML Advanced section. Key concepts include:
+
+- Using CSS custom properties (variables) for consistent design
+- Implementing responsive design with media queries
+- Creating animations and transitions
+- Using flexbox and grid for layout
+- Implementing a cohesive color scheme and typography
+- Styling UI components (buttons, forms, cards, etc.)
+
+### Key Files
+
+- Numbered style files (1-style.css to 32-style.css) showing progressive styling
+- `normalize.css`: Resets browser default styles for consistency across browsers
 
 ## 🚀 Getting Started
 
